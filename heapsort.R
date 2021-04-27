@@ -1,5 +1,5 @@
 
-array <- c(55, 14, 333, 710, 264)
+array <- c(32, 17, 49, 98, 06, 25, 53, 61)
 
 
 heapify <- function(array, n, i)
